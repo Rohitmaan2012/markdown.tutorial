@@ -35,10 +35,10 @@ console.log(name);
 2. Louis Van Gaal
 3. David Moyes
 
-**Transfers**
+**Transfers** 
 * Sanchez
 * Young
--Valencia
+- Valencia
 - Jones
 
 **Trophies**
