@@ -42,4 +42,6 @@ console.log(name);
 - Jones
 
 **Trophies**
-
+* [x] Premier League
+* [x] Uefa Champions League
+* [ ] FA Cup
