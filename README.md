@@ -4,7 +4,7 @@
 <!-- ![rohit maan](ManchesterUnited.jpg "helloji") -->
 <img src = "ManchesterUnited.jpg" alt = "Manchester United" width=300 title="ManUtd Logo">
 
-Link: [Visit website](https://www.manutd.com/ "OfficialSite")
+Link: _[Visit website]_(https://www.manutd.com/ "OfficialSite")
 ---
 
 **Glory Glory Man Utd** 
@@ -22,9 +22,9 @@ console.log(name);
 
 **Legends**
 
-Name|Position|Jersey Number
-|---|---|---|
-Rooney|Striker|10
-Ronaldo|Midfield|7
-De Gea | Goalkeeper| 1
-RVP | Striker | 20
+|   Name  |  Position  | Jersey Number
+| ------- | ---------- | -------------
+| Rooney  |  Striker   |     10
+| Ronaldo |  Midfield  |     7
+| De Gea  | Goalkeeper |     1
+|   RVP   |  Striker   |     20
