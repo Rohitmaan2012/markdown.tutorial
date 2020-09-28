@@ -3,17 +3,14 @@
 ## My club
 <!-- ![rohit maan](images/profile-pic.jpg width=300 "helloji") -->
 <img src = "ManchesterUnited.jpg" width=300>
-
 ---
-
-Use `for` loop
+Love `for` club 
 ```javascript
-var bame = "hitesh";
-console.log(name);
-blah blah blah 
+var name = "rohit";
+console.log(name); 
 ```
 
-hellosir how you are doing<br>
+SirAlexFerguson was the greatest manager of all time<br>
 eddefrfr
 rfrfefe
 *******
