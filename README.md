@@ -5,18 +5,23 @@
 <img src = "ManchesterUnited.jpg" width=300>
 
 ---
-**`Glory Glory Man Utd`** 
+
+**Glory Glory Man Utd** 
+
 ```javascript
 manager name = "Ole Gunner Solskjaer";
 console.log(name); 
 ```
 
-SirAlexFerguson was the greatest manager of all time
+`SirAlexFerguson` was the greatest manager of all time
 
 *******
 
->     Keep supporting till i die
+>     _Keep supporting `till` I die_
 
-_`Legends`_
+**Legends**
+|Name|Position|Jersey Number|
+
+
 
 
