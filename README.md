@@ -35,11 +35,16 @@ console.log(name);
 2. Louis Van Gaal
 3. David Moyes
 
-**Transfers** 
+**Transfers Out** 
 * Sanchez
 * Young
 - Valencia
 - Jones
+**Transfers In**
+- Maguire
+- Wan Bissaka
+- Daniel James
+- Bruno Fernandez
 
 **Trophies**
 * [x] Premier League
