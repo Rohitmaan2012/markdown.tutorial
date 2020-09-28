@@ -1,17 +1,21 @@
 # markdown.tutorial
 
-## My club
+## Manchester United
 <!-- ![rohit maan](images/profile-pic.jpg width=300 "helloji") -->
 <img src = "ManchesterUnited.jpg" width=300>
 
 ---
-Love `for` club 
+`Glory Glory Man Utd` 
 ```javascript
-legend name = "Eric Cantona";
+manager name = "Ole Gunner Solskjaer";
 console.log(name); 
 ```
 
 SirAlexFerguson was the greatest manager of all time
+
 *******
->     Keep smiling and eat healthy
+
+>     Keep supporting till i die
+
+
 
