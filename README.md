@@ -38,7 +38,7 @@ console.log(name);
 **Transfers**
 * Sanchez
 * Young
-- Valencia
+-Valencia
 - Jones
 
 **Trophies**
