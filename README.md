@@ -1,6 +1,6 @@
 # markdown.tutorial
 
-## My picture
+## My club
 <!-- ![rohit maan](images/profile-pic.jpg width=300 "helloji") -->
 <img src = "ManchesterUnited.jpg" width=300>
 
