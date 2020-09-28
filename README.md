@@ -2,7 +2,7 @@
 
 ## My picture
 <!-- ![rohit maan](images/profile-pic.jpg width=300 "helloji") -->
-<img src = "images/ManchesterUnited.jpg" width=300>
+<img src = "ManchesterUnited.jpg" width=300>
 
 ---
 
