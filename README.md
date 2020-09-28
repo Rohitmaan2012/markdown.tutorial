@@ -5,6 +5,7 @@
 <img src = "ManchesterUnited.jpg" alt = "Manchester United" width=300 title="ManUtd Logo">
 
 Link: _[(Visit website)](https://www.manutd.com/ "OfficialSite")_
+
 ---
 
 **Glory Glory Man Utd** 
@@ -28,3 +29,15 @@ console.log(name);
 | Ronaldo |  Midfield  |     7
 | De Gea  | Goalkeeper |     1
 |   RVP   |  Striker   |     20
+
+**Ex-Managers**
+1. Jose Mourinho
+2. Louis Van Gaal
+3. David Moyes
+
+**Transfers**
+* Sanchez
+* Young
+
+**Trophies**
+
