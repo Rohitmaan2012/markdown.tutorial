@@ -1,10 +1,10 @@
 # markdown.tutorial
 
 ## Manchester United
-<!-- ![rohit maan](images/profile-pic.jpg width=300 "helloji") -->
-<img src = "ManchesterUnited.jpg" width=300>
+<!-- ![rohit maan](ManchesterUnited.jpg "helloji") -->
+<img src = "ManchesterUnited.jpg" alt = "Manchester United" width=300 title="ManUtd Logo">
 
-Link: [Visit website](https://www.manutd.com/)
+Link: [Visit website](https://www.manutd.com/ "OfficialSite")
 ---
 
 **Glory Glory Man Utd** 
@@ -18,9 +18,10 @@ console.log(name);
 
 *******
 
->     _Keep supporting `till` I die_
+>     Keep supporting till you die
 
 **Legends**
+
 |Name|Position|Jersey Number|
 
 
