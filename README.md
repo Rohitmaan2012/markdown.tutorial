@@ -22,8 +22,9 @@ console.log(name);
 
 **Legends**
 
-|Name|Position|Jersey Number|
-
-
-
-
+Name|Position|Jersey Number
+|---|---|---|
+Rooney|Striker|10
+Ronaldo|Midfield|7
+De Gea | Goalkeeper| 1
+RVP | Striker | 20
