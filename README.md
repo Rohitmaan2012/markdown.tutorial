@@ -15,7 +15,8 @@ manager name = "Ole Gunner Solskjaer";
 console.log(name); 
 ```
 
-`SirAlexFerguson` was the greatest manager of all time
+`SirAlexFerguson` was the greatest manager of all time.<br>
+He was one of the best successor of Sir Matt Busby.
 
 *******
 
