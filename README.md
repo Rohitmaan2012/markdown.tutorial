@@ -2,7 +2,9 @@
 
 ## Manchester United
 <!-- ![rohit maan](ManchesterUnited.jpg "helloji") -->
-<img src = "ManchesterUnited.jpg" alt = "Manchester United" width=300 title="ManUtd Logo">
+<img src = "ManchesterUnited.jpg"  alt = "Manchester United"  width=300  title= "ManUtd Logo">
+
+[![Build Status](https://travis-ci.org/github/training-kit.svg?branch=master)](https://travis-ci.org/github/training-kit)
 
 Link: _[(Visit website)](https://www.manutd.com/ "OfficialSite")_
 
