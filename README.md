@@ -55,4 +55,4 @@ He was one of the best successor of Sir Matt Busby.
 
 [![Demo Doccou alpha](https://j.gifs.com/XLv12V.gif)](https://www.youtube.com/watch?v=OiMRxVndTeU)
 
-[![Manchester United](ManchesterUnited.jpg)](https://www.youtube.com/watch?v=cK0-tiorIi4)
+[![Manchester United](ManchesterUnited.jpg  width = 300)](https://www.youtube.com/watch?v=cK0-tiorIi4)
