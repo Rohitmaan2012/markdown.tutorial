@@ -1,6 +1,6 @@
 # markdown.tutorial
 
-## Manchester United
+## Manchester is Red :heart: forever !
 <!-- ![rohit maan](ManchesterUnited.jpg "helloji") -->
 <img src = "ManchesterUnited.jpg"  alt = "Manchester United"  width=300  title= "ManUtd Logo">
 
@@ -21,7 +21,7 @@ console.log(name);
 
 *******
 
->     Keep supporting till you die
+>     Keep Supporting Till You Die!
 
 **Legends**
 
