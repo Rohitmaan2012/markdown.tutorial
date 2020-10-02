@@ -4,11 +4,11 @@
 
 [![Build Status](https://travis-ci.org/github/training-kit.svg?branch=master)](https://travis-ci.org/github/training-kit)
 
-Link: _[(Visit website)](https://www.manutd.com/ "OfficialSite")_
+**Link:** _[(Visit website)](https://www.manutd.com/ "OfficialSite")_
 
 ---
 
-**Glory Glory Man Utd** 
+## Glory Glory Man Utd 
 
 ```javascript
 manager name = "Ole Gunner Solskjaer";
